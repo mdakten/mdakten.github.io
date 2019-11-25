@@ -631,15 +631,15 @@ nav a:hover:before, nav a:hover:after
     }
     .boxp {
 
-        width: 93px;
-        background: white;
-        float: left;
-        display: table;
-        margin: 0px 3px;
-        height: 113px;
-        text-align: center;
-        border: 3px solid #d9b478;
-        border-radius: 2px 55px 2px 2px;
+  width: 78px;
+background: white;
+float: left;
+display: table;
+margin: 3px 3px;
+height: 157px;
+text-align: center;
+border: 3px solid #d9b478;
+border-radius: 2px 55px;
 
     }
     .c1 {
