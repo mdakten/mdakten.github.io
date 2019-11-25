@@ -206,7 +206,29 @@ span {
     position: fixed;
     z-index: 4;
 }
-
+.box4{
+    background: #debd89;
+width: 455.22px;
+height: 497.123px;
+transform: rotate(33.82deg);
+border-radius: 69.348px;
+position: absolute;
+left: -221px;
+z-index: -2;
+top: 2187px;
+}
+.box5
+{
+background: #263038;
+width: 455.22px;
+height: 497.123px;
+transform: rotate(53.82deg);
+border-radius: 69.348px;
+position: absolute;
+left: -221px;
+z-index: -3;
+top: 2252px;
+}
 .data {
     color:#debd89;
     width: 62px;
@@ -632,27 +654,4 @@ nav a:hover:before, nav a:hover:after
         margin: 14px auto 19px;
 
     }
-}
-.box4{
-    background: #debd89;
-width: 455.22px;
-height: 497.123px;
-transform: rotate(33.82deg);
-border-radius: 69.348px;
-position: absolute;
-left: -221px;
-z-index: -2;
-top: 2187px;
-}
-.box5
-{
-background: #263038;
-width: 455.22px;
-height: 497.123px;
-transform: rotate(53.82deg);
-border-radius: 69.348px;
-position: absolute;
-left: -221px;
-z-index: -2;
-top: 2252px;
 }
