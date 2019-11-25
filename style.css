@@ -146,15 +146,15 @@ top: 2187px;
 }
 .boxd5
 {
-    background: #263038;
-    width: 576.22px;
-    height: 549.123px;
-    transform: rotate(-18.18deg);
-    border-radius: 69.348px;
-    position: absolute;
-    left: -255px;
-    top: 2266px;
-    z-index: 2;
+background: #263038;
+width: 497.22px;
+height: 487.123px;
+transform: rotate(-32.18deg);
+border-radius: 69.348px;
+position: absolute;
+left: -255px;
+top: 2192px;
+z-index: -3;
 }
 .menu {
 
