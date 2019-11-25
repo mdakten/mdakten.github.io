@@ -133,6 +133,29 @@ span {
     bottom: -245px;
     right: -268px;
 }
+.boxd4{
+    background: #debd89;
+width: 455.22px;
+height: 497.123px;
+transform: rotate(33.82deg);
+border-radius: 69.348px;
+position: absolute;
+left: -221px;
+z-index: -2;
+top: 2187px;
+}
+.boxd5
+{
+    background: #263038;
+    width: 576.22px;
+    height: 549.123px;
+    transform: rotate(-18.18deg);
+    border-radius: 69.348px;
+    position: absolute;
+    left: -255px;
+    top: 2266px;
+    z-index: 2;
+}
 .menu {
 
     font-size: 21px;
@@ -205,29 +228,6 @@ span {
     right: 112px;
     position: fixed;
     z-index: 4;
-}
-.boxd4{
-    background: #debd89;
-width: 455.22px;
-height: 497.123px;
-transform: rotate(33.82deg);
-border-radius: 69.348px;
-position: absolute;
-left: -221px;
-z-index: -2;
-top: 2187px;
-}
-.boxd5
-{
-background: #263038;
-width: 455.22px;
-height: 497.123px;
-transform: rotate(53.82deg);
-border-radius: 69.348px;
-position: absolute;
-left: -221px;
-z-index: -3;
-top: 2252px;
 }
 .data {
     color:#debd89;
