@@ -387,19 +387,19 @@ $(".darkmode").click(function(){ //1
             $(".l2,.l3").hasClass("dark") ? //4
                 {fill:"#1b2228"} : {fill:"#f7f0e4"} //5
         );
-	$(".l2,.l3").toggleClass("dark")//2
+	$(".boxd2,.boxd3").toggleClass("dark")//2
         .css( //3
             $(".boxd2,.boxd3").hasClass("dark") ? //4
                 {background:"#263038"} : {background:"#fcf8f3"} //5
         );
 	$(".boxd1").toggleClass("dark")//2
         .css( //3
-            $(".boxd2,.boxd3").hasClass("dark") ? //4
+            $(".boxd1").hasClass("dark") ? //4
                 {background:"#fcf8f3"} : {background:"#263038"} //5
         );
 		$(".boxd4,.boxd5").toggleClass("dark")//2
         .css( //3
-            $(".boxd2,.boxd3").hasClass("dark") ? //4
+            $(".boxd4,.boxd5").hasClass("dark") ? //4
                 {background:linear-gradient(141deg, rgb(38, 48, 56) 44%, rgba(255,255,255,0) 62%)} : {background:linear-gradient(141deg, rgb(252, 248, 243) 44%, rgba(255,255,255,0) 62%)} //5
         );
 
