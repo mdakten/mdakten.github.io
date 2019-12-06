@@ -34,7 +34,7 @@ body {
     position: absolute;
     top: 32px;
     right: 208px;
-    animation-name: welcome;    animation-duration: 12.5s;
+    animation-name: welcome;    animation-duration: 5.5s;
     animation-iteration-count: 1;
 }
 @keyframes welcome {
@@ -134,26 +134,26 @@ span {
     right: -268px;
 }
 .boxd4{
-    background: #debd89;
+background: #fcf8f3;
 width: 455.22px;
 height: 497.123px;
-transform: rotate(33.82deg);
+transform: rotate(67.82deg);
 border-radius: 69.348px;
 position: absolute;
-left: -221px;
+left: -25px;
 z-index: -2;
-top: 2187px;
+top: 2528px;
 }
 .boxd5
 {
+border-radius: 69.348px;
 background: #263038;
 width: 497.21px;
 height: 487.123px;
-transform: rotate(-32.18deg);
-border-radius: 69.348px;
+transform: rotate(32.82deg);
 position: absolute;
-left: -255px;
-top: 2192px;
+left: -37px;
+top: 2478px;
 z-index: -3;
 }
 .menu {
